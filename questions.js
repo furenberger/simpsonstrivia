@@ -7,251 +7,338 @@ module.exports = {
      */
     QUESTIONS_EN_US: [
       {
-        'Reindeer have very thick coats, how many hairs per square inch do they have?': [
-          '13,000',
-          '1,200',
-          '5,000',
-          '700',
-          '1,000',
-          '120,000',
-        ],
+        "Which one of Marges Sisters has resorted to a life of celibacy?": [
+            "Patty",
+            "Maude",
+            "Sarah",
+            "JubJub"
+        ]
       },
       {
-        'The 1964 classic Rudolph The Red Nosed Reindeer was filmed in? ': [
-          'Japan',
-          'United States',
-          'Finland',
-          'Germany',
-          'Canada',
-          'Norway',
-          'France',
-        ],
+          "What is Homers Brothers Name? (first and last)": [
+              "Herb Powell",
+              "Max Power",
+              "Homer Simpson",
+              "Lucy"
+          ]
       },
       {
-        'Santas reindeer are cared for by one of the Christmas elves, what is his name?': [
-          'Wunorse Openslae',
-          'Alabaster Snowball',
-          'Bushy Evergreen',
-          'Pepper Minstix',
-        ],
+          "Who is Radioactive Mans Sidekick?": [
+              "Falloutboy",
+              "Billy",
+              "Radioactive Kid",
+              "Robin"
+          ]
       },
       {
-        'If all of Santas reindeer had antlers while pulling his Christmas sleigh, they would all be': [
-          'Girls',
-          'Boys',
-          'Girls and boys',
-          'No way to tell',
-        ],
+          "Who replaced Sideshow Bob?": [
+              "Sideshow Mel",
+              "Sideshow Tom",
+              "Mojo",
+              "Robert Terwilliger"
+          ]
       },
       {
-        'What do Reindeer eat?': [
-          'Lichen',
-          'Grasses',
-          'Leaves',
-          'Berries',
-        ],
+          "Who is the Channel 5 ACTION news host?": [
+              "Kent Brockman",
+              "Action Jackson",
+              "Hans Moleman",
+              "Bart Simpson"
+          ]
       },
       {
-        'What of the following is not true?': [
-          'Caribou live on all continents',
-          'Both reindeer and Caribou are the same species',
-          'Caribou are bigger than reindeer',
-          'Reindeer live in Scandinavia and Russia',
-        ],
+          "Who is Barts Teacher?": [
+              "Mrs. Krabappel",
+              "Miss Hoover",
+              "Mr. Doyle",
+              "Ms. Marshall"
+          ]
       },
       {
-        'In what year did Rudolph make his television debut?': [
-          '1964',
-          '1979',
-          '2000',
-          '1956',
-        ],
+          "Who is Lisas Teacher?": [
+              "Miss Hoover",
+              "Mrs. Krabappel",
+              "Ms. Marshall",
+              "Mr. Doyle"
+          ]
       },
       {
-        'Who was the voice of Rudolph in the 1964 classic?': [
-          'Billie Mae Richards',
-          'Burl Ives',
-          'Paul Soles',
-          'Lady Gaga',
-        ],
+          "Who is Ned Flanders wife?": [
+              "Maud Flanders",
+              "Todd Flanders",
+              "Rodd Flanders",
+              "Marge Flanders",
+              "Helen Flanders"
+          ]
       },
       {
-        'In 1939 what retailer used the story of Rudolph the Red Nose Reindeer?': [
-          'Montgomery Ward',
-          'Sears',
-          'Macys',
-          'Kmart',
-        ],
+          "What is the name of the Flanders store?": [
+              "The Leftorium",
+              "The Left Station",
+              "Left Turn Ahead",
+              "We are Left",
+              "Whos Left"
+          ]
       },
       {
-        'Santa\'s reindeer named Donner was originally named what?': [
-          'Dunder',
-          'Donny',
-          'Dweedle',
-          'Dreamy',
-        ],
+          "Who is the founder of Springfield?": [
+              "Jebediah Springfield",
+              "Principal Chalmers",
+              "Reverend Lovejoy",
+              "Ned Springfield"
+          ]
       },
       {
-        'Who invented the story of Rudolph?': [
-          'Robert May',
-          'Johnny Marks',
-          'Santa',
-          'J K  Rowling',
-        ],
+          "What is the name of Burns beloved bear?": [
+              "Bo Bo",
+              "Pinchy",
+              "Homer",
+              "Stampy"
+          ]
       },
       {
-        'In what location will you not find reindeer?': [
-          'North Pole',
-          'Lapland',
-          'Korvatunturi mountain',
-          'Finland',
-        ],
+          "Where did the Simpsons find Santas Little Helper?": [
+              "The Dog Track",
+              "The Pound",
+              "The Park",
+              "Shelbyville"
+          ]
       },
       {
-        'What Makes Santa\'s Reindeer Fly?': [
-          'Magical Reindeer Dust',
-          'Fusion',
-          'Amanita muscaria',
-          'Elves',
-        ],
+          "Who is Ralphs incompetent dad?": [
+              "Chief Clancy Wiggum",
+              "Sergeant Lou",
+              "Officer Eddie",
+              "Police Chief Rex Banner"
+          ]
       },
       {
-        'Including Rudolph, how many reindeer hooves are there?': [
-          '36',
-          '24',
-          '16',
-          '8',
-        ],
+          "Who was the country singing sensation that Homer managed?": [
+              "Lurleen Lumpkin",
+              "Jacques Brunswick",
+              "Mindy Simmons",
+              "Princess Kashmir"
+          ]
       },
       {
-        'Santa only has one female reindeer, Which one is it?': [
-          'Vixen',
-          'Clarice',
-          'Cupid',
-          'Cupid',
-        ],
+          "Who is Patty and Selmas favorite star?": [
+              "MacGyver",
+              "Troy Mclure",
+              "Sideshow Bob",
+              "Disco Stu"
+          ]
       },
       {
-        'In the 1964 classic Rudolph The Red Nosed Reindeer, what was the snowman narrators name?': [
-          'Sam',
-          'Frosty',
-          'Burl',
-          'Snowy',
-        ],
+          "What were Barts first words?": [
+              "Aye Carumba!",
+              "Dont have a cow man",
+              "Eat my shorts",
+              "Homer"
+          ]
       },
       {
-        'What was Rudolph\'s father\'s name?': [
-          'Donner',
-          'Dasher',
-          'Blixen',
-          'Comet',
-        ],
+          "What excuse does Homer use (on his insurance form) to buy Dimoxinil?": [
+              "To keep brain from freezing",
+              "To prevent total paralysis",
+              "I have the flu",
+              "I ate too many cupcakes"
+          ]
       },
       {
-        'In the 1964 movie, What was the name of the coach of the Reindeer Games?': [
-          'Comet',
-          'Blixen',
-          'Donner',
-          'Dasher',
-        ],
+          "Who does Springfield believe is trapped in the well?": [
+              "Timmy O Toole",
+              "Bart Simpson",
+              "Langdon Alger",
+              "Blake Black"
+          ]
       },
       {
-        'In the 1964 movie, what is the name of the deer that Rudolph befriends at the reindeer games?': [
-          'Fireball',
-          'Clarice',
-          'Jumper',
-          'Vixen',
-        ],
+          "Who narrates The Raven in Holloween Special IV?": [
+              "James Eal Jones",
+              "Dan Castellaneta",
+              "Yeardley Smith",
+              "Tony Bennett"
+          ]
       },
       {
-        'In the 1964 movie, How did Donner, Rudolph\'s father, try to hide Rudolph\'s nose?': [
-          'Black mud',
-          'Bag',
-          'Pillow case',
-          'Sock',
-        ],
+          "What is Lisas future occupation according to the CANT test?": [
+              "Homemaker",
+              "Bioligist",
+              "President",
+              "Scientist"
+          ]
       },
       {
-        'In the 1964 movie, what does the Misfit Elf want to be instead of a Santa Elf?': [
-          'Dentist',
-          'Reindeer',
-          'Toy maker',
-          'Candlestick maker',
-        ],
+          "What instrument does Homer replace Lisas Sax with after it is stolen?": [
+              "a jug",
+              "a piano",
+              "a flute",
+              "an accordian"
+          ]
       },
       {
-        'In the 1964 movie,what was the Bumble\'s one weakness?': [
-          'Could not swim',
-          'Always hungry',
-          'Candy canes',
-          'Cross eyed',
-        ],
+          "Where does Millhouses dad work": [
+              "The cracker factory",
+              "The police station",
+              "The nuclear power plant",
+              "The Kwik-e-mart"
+          ]
       },
       {
-        'In the 1964 movie, what is Yukon Cornelius really in search of?': [
-          'Peppermint',
-          'Gold',
-          'India',
-          'Polar Bears',
-        ],
+          "What drink is unique to the Kwik-e-mart": [
+              "The squishe",
+              "The slurpee",
+              "Big gulp",
+              "Shakes"
+          ]
       },
       {
-        'In the 1964 movie, why is the train on the Island of Misfit Toys?': [
-          'Square wheels',
-          'No Engine',
-          'Paint does not match',
-          'It does not toot',
-        ],
+          "What is the Springfield equivalent to Barbie?": [
+              "Malibu Stacy",
+              "Lisa Lionheart",
+              "Lettuce patch kids",
+              "Canadian girl doll"
+          ]
       },
       {
-        'In the 1964 movie, what is the name of the Jack in the Box?': [
-          'Charlie',
-          'Sam',
-          'Billy',
-          'Jack',
-        ],
+          "Who opens up Springfields casino?": [
+              "Mr Burns",
+              "Homer",
+              "Smithers",
+              "Robert Goulet"
+          ]
       },
       {
-        'In the 1964 movie, why did Santa Claus almost cancel Christmas?': [
-          'Storm',
-          'No snow',
-          'No toys',
-          'The Reindeer were sick',
-        ],
+          "What does Lisas valentine to Ralph say?": [
+              "I choo choo choose you",
+              "will you be my valentine",
+              "From your secred admirer",
+              "I love you"
+          ]
       },
       {
-        'In the 1964 movie, what animal noise did the elf make to distract the Bumble?': [
-          'Oink',
-          'Growl',
-          'Bark',
-          'Meow',
-        ],
+          "What alias last name do the Simpsons go under to avoid Sideshow Bob?": [
+              "The Thompsons",
+              "The Andersons",
+              "The Smiths",
+              "The Simpsons"
+          ]
       },
       {
-        'In the 1964 movie, what is the name of the prospector?': [
-          'Yukon Cornelius',
-          'Slider Sam',
-          'Bumble',
-          'Jack',
-        ],
+          "What name is spray painted all over Springfield?": [
+              "El barto",
+              "Bartman",
+              "El grampo",
+              "Zorro"
+          ]
       },
       {
-        'How far do reindeer travel when they migrate?': [
-          '3000 miles',
-          '700 miles',
-          '500 miles',
-          '0 miles',
-        ],
+          "Who is Krustys father?": [
+              "Haymen Krustofsky",
+              "Zev Krustofsky",
+              "Luke Perry",
+              "Melvin Van Horne"
+          ]
       },
       {
-        'How fast can a reindeer run?': [
-          '48 miles per hour',
-          '17 miles per hour',
-          '19 miles per hour',
-          '14 miles per hour',
-          '52 miles per hour',
-          '41 miles per hour',
-        ],
+          "What does Herman sell?": [
+              "Military antiques",
+              "Maps",
+              "Saxaphones",
+              "Bowling balls"
+          ]
       },
+      {
+          "Who are the twins in Barts class": [
+              "Sherry and Terry",
+              "Larry and Marry",
+              "Harry and Sally",
+              "Cherry and Wary"
+          ]
+      },
+      {
+          "Who is Lunch Lady at Springfield Elementary?": [
+              "Nurse Doris Freedman",
+              "Groundskeeper Willie",
+              "Edna Krabappel",
+              "Superintendent Chalmers"
+          ]
+      },
+      {
+          "What does Bart name his Elephant": [
+              "Stampy",
+              "Pinchy",
+              "Bo bo",
+              "Nibbles"
+          ]
+      },
+      {
+          "What does Homer sell to get counselling for his family?": [
+              "the TV",
+              "his car",
+              "marges wedding ring",
+              "the dog"
+          ]
+      },
+      {
+          "What street do the Simpsons live on?": [
+              "Evergreen Terrace",
+              "Fake St",
+              "Elm Street",
+              "Peanut Street"
+          ]
+      },
+      {
+          "Who shot Mr. Burns?": [
+              "Maggie",
+              "Lisa",
+              "Mr Smithers",
+              "Abe Simpson",
+              "Barney ",
+              "Homer",
+              "Tito",
+              "Willie"
+          ]
+      },
+      {
+          "What is Homers job at the Nuclear Power Plant?": [
+              "Saftey Inspector",
+              "Scientist",
+              "Employee",
+              "Worker"
+          ]
+      },
+      {
+          "What is the name of the 3 eyed fish?": [
+              "Blinky",
+              "Pinchy",
+              "Noisy",
+              "POkey"
+          ]
+      },
+      {
+          "What is Abe Simpsons WWII unit called?": [
+              "The Flying Hellfish",
+              "The Fighting Hellfish",
+              "The Fancy Catfish",
+              "The Famed Catfish"
+          ]
+      },
+      {
+          "What is Moes religion?": [
+              "Snake Handler",
+              "presbyLutheran",
+              "Movementarian",
+              "Buddhist"
+          ]
+      },
+      {
+          "How lone is lisa banned from the Historical Society": [
+              "Three months",
+              "One week",
+              "Two weeks",
+              "Forever"
+          ]
+      }
     ]
   };
